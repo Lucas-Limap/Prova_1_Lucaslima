@@ -2,3 +2,61 @@
     margin: 0px;
     padding: 0px;
 }
+
+#container{
+    border: 2px solid black;
+    margin:50px auto;
+    width: 1200px;
+    height: 700px;
+}
+
+img{
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin-top: 20px;
+    margin-left: 20px;
+    table-layout: fixed;
+    border-collapse: collapse;
+
+}
+th,td{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+#bkgrey{
+    background-color: rgb(179, 179, 179);
+
+}
+
+#green :hover{
+    background-color: greenyellow;
+}
+
+#class{
+    padding: 0 150px ;
+}
+#pontos, #jogos{
+    padding: 0 75px;
+}
+#time{
+    text-align: left;
+}
+#gols{
+    padding: 0 100px;
+}
+
+#imagem{
+    text-align: center;
+}
+
+#tabela{
+    
+}
